@@ -1,0 +1,10 @@
+Flask
+opencv-python
+numpy
+Keras
+tensorflow
+matplotlib
+sounddevice
+scipy
+wavio
+librosa
